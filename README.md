@@ -1,3 +1,3 @@
 # Payeasy_Wallet_DBMS
 
-- A online wallet in which you can Recharge , Transfer , Add money to your wallet.
+- Database for a online payeasy_wallet  in which you can Recharge your/someone's wallet , Transfer to someone's wallet , Add money to your wallet.
